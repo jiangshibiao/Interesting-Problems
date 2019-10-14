@@ -198,9 +198,9 @@
 #### 标准型和对偶
 
 + 线性规划的标准型：
-    <center> maximum $\pmb{c}^T\pmb{x}$ </center>
-    <center> $\pmb{A}\pmb{x} \le \pmb{b}$ </center>
-    <center> $\pmb{x} \ge \pmb{0} $</center>
+<center> maximum $\pmb{c}^T\pmb{x}$ </center>
+<center> $\pmb{A}\pmb{x} \le \pmb{b}$ </center>
+<center> $\pmb{x} \ge \pmb{0} $ </center>
 + 它的对偶问题为：
 	<center>minimum $\pmb{b}^T\pmb{x}$
     $\pmb{y}^T\pmb{A} \ge \pmb{c}^T$
