@@ -200,7 +200,7 @@
 <center>test</center>
 
 + 线性规划的标准型：
-<p align="center"> maximum $\pmb{c}^T\pmb{x}$  $\pmb{A}\pmb{x} \le \pmb{b}$  $\pmb{x} \ge \pmb{0}$</p>
+<p align="center"> maximum $\pmb{c}^T\pmb{x}$ </br> $\pmb{A}\pmb{x} \le \pmb{b}$ </br>  $\pmb{x} \ge \pmb{0}$</p>
 
 + 它的对偶问题为：
 	<center>minimum $\pmb{b}^T\pmb{x}$
