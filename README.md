@@ -13,6 +13,7 @@
 + [边权最小使指定顶点连通](#边权最小使指定顶点连通)
 + [最小生成树局部最优等于全局最优](#最小生成树局部最优等于全局最优)
 + [线性规划的基本理论](#线性规划的基本理论)
++ [原始对偶](#原始对偶)
 + [最大割的2近似做法](#最大割的2近似做法)
 + [点覆盖的2近似做法](#点覆盖的2近似做法)
 
@@ -198,6 +199,11 @@
 ## 线性规划的基本理论
 
 [按这里跳转](线性规划的基本理论.md)
+
+## 原始对偶
+
+[原始对偶讲解——TSR的博客](https://www.cnblogs.com/tsreaper/p/aop5.html)
+[Google浏览器 MathJax 插件安装](https://chrome.google.com/webstore/detail/tex-all-the-things/cbimabofgmfdkicghcadidpemeenbffn)
 
 ## 图的最大割问题
 
